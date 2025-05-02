@@ -1,4 +1,34 @@
-## Hi there 👋
+<!-- GitHub Profile README Template -->
+
+<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+
+<p align="center">
+  🚀 Aspiring Full-Stack Software Engineer | ALX Learner | Tech for Social Impact
+</p>
+
+---
+
+### 🚀 About Me
+
+I’m currently a **Software Engineering student at ALX**, building both **frontend** and **backend** skills through hands-on, real-world projects. My journey into tech began with the desire to **solve real-life challenges**, especially in areas like **healthcare accessibility**, productivity, and automation.
+
+🌟 **What inspires me**: Using technology to **bridge gaps in access**, especially for underserved communities — whether it’s healthcare through telemedicine or building tools that help people thrive in their daily lives.
+
+🎯 **My vision**: To become a **world-class developer** and entrepreneur, creating scalable solutions that improve lives in **Africa and beyond**.
+
+💡 **I love working on**: Healthcare platforms, educational apps, lightweight productivity tools, and automation projects that make life simpler for users.
+
+---
+
+### 🛠️ Tech Stack
+
+```html
+Frontend      : HTML, CSS, JavaScript  
+Backend       : PHP, Python, Node.js  
+Databases     : MySQL, CSV-based analytics  
+Mobile Dev    : Flutter & Dart  
+Other Tools   : Git, Figma, Power BI, Ubuntu Linux
+
 
 <!--
 **NjungeNicholas/NjungeNicholas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
