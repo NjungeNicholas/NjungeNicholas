@@ -28,7 +28,7 @@ Backend       : PHP, Python, Node.js
 Databases     : MySQL, CSV-based analytics  
 Mobile Dev    : Flutter & Dart  
 Other Tools   : Git, Figma, Power BI, Ubuntu Linux
-
+```
 
 <!--
 **NjungeNicholas/NjungeNicholas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
