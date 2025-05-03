@@ -1,6 +1,6 @@
 <!-- GitHub Profile README Template -->
 
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm Nicholas Gitau 👋</h1>
 
 <p align="center">
   🚀 Aspiring Full-Stack Software Engineer | ALX Learner | Tech for Social Impact
