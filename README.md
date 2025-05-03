@@ -24,11 +24,12 @@ I’m currently a **Software Engineering student at ALX**, building both **front
 
 ```html
 Frontend      : HTML, CSS, JavaScript  
-Backend       : PHP, Python, Node.js  
+Backend       : PHP, Python
 Databases     : MySQL, CSV-based analytics  
 Mobile Dev    : Flutter & Dart  
-Other Tools   : Git, Figma, Power BI, Ubuntu Linux
+Other Tools   : Git, Figma, Power BI
 ```
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,python,mysql,flutter,dart,git,figma,powerbi)](https://skillicons.dev)
 
 <!--
 **NjungeNicholas/NjungeNicholas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
