@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, I'm Nicholas Gitau 👋</h1>
 
 <p align="center">
-  🚀 Aspiring Full-Stack Software Engineer | ALX Learner | Tech for Social Impact
+  🚀 Aspiring Full-Stack Software Engineer | Tech for Social Impact
 </p>
 
 ---
